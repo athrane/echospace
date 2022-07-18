@@ -2,9 +2,11 @@
 
 Audio visualizer developed in cables.gl.
 
+The visualizer will create graphics effects based on analysis of the music.
+
 # Usage
 
-## Page 
+## Go to the visualizer page 
 Go to [Echospace GitHub Pages](https://athrane.github.io/echospace/).
 
 ## Accept michophone usage
