@@ -2,3 +2,4 @@
 - ops by cables user simod (https://cables.gl/user/simod)
 - cables by undefined development (http://undev.studio)
 - glmatrix by toji (https://github.com/toji/gl-matrix)
+- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
