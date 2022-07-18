@@ -12,13 +12,15 @@ Accept that the browser want to use the microphone, e.g. click on "Allow".
 The visualizer will render stuff based on the sound from the computer microhone.
 
 Example from the Edge browser:
+
 ![Edge](/echospace-microphone.png)
 
 ## Start the visualizer
 Press play on the play button to start the visualizer.
 
 Example from the Edge browser:
-![Edge](/echospace-play.png)
+
+[Edge](/echospace-play.png)
 
 ## Start the music
 Start to play some music on computer.
