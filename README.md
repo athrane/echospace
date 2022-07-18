@@ -20,10 +20,10 @@ Press play on the play button to start the visualizer.
 
 Example from the Edge browser:
 
-[Edge](/echospace-play.png)
+![Edge](/echospace-play.png)
 
 ## Start the music
 Start to play some music on computer.
 
-Exmple: Go to yuotube and start to listen to the SHS 31 set: 
+Exmple: Go to YouTube and start to listen to the SHS 31 set: 
 [SHS 31](https://www.youtube.com/watch?v=FE1sY4OY1D4&t=7537s).
