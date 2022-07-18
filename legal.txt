@@ -1,0 +1,9 @@
+All cables core code is licenced under the MIT licence
+
+Some ops may be using code from contributors or external libraries under different licences.
+
+Additional code from contributors and libraries in this export are licenced as follows:
+
+MIT:
+
+- glmatrix by toji (https://github.com/toji/gl-matrix)
