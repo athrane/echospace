@@ -1,8 +1,11 @@
 # echospace
 
-Audio visualizer developed in cables.gl.
+Echospace is a audio visualizer.
+The visualizer will create graphics effects based on analysis of played music.
 
-The visualizer will create graphics effects based on analysis of the music.
+## Development
+
+The project is developed in [cables.gl](https://cables.gl/home).
 
 # Usage
 
