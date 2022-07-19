@@ -10,7 +10,7 @@ The project is developed in [cables.gl](https://cables.gl/home).
 # Usage
 
 ## Go to the visualizer page 
-Go to [Echospace GitHub Pages](https://athrane.github.io/echospace/).
+Open a browser and go to [Echospace GitHub Pages](https://athrane.github.io/echospace/).
 
 ## Accept michophone usage
 Accept that the browser want to use the microphone, e.g. click on "Allow". 
@@ -28,7 +28,7 @@ Example from the Edge browser:
 ![Edge](/echospace-play.png)
 
 ## Start the music
-Start to play some music on computer.
+Start to play some music on the computer.
 
-Exmple: Go to YouTube and start to listen to the SHS 31 set: 
+Example: Open another tab in the browser and go to YouTube and start to listen to the SHS 31 set: 
 [SHS 31](https://www.youtube.com/watch?v=FE1sY4OY1D4&t=7537s).
